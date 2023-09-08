@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<title>Colleen Chang</title>
+<link rel="icon" type="image/ico" href="assets/cactus.png" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<bodclass="w3-content" style="max-width:1300px">
+
+<div class="w3-white w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <div class="w3-left-align w3-padding-small">
+        <p style="font-family: 'Cutive Mono', monospace; margin-top: 10%; margin-right: 150px">I currently study at <a href="https://www.mcgill.ca/">McGill University</a>, and am building Tuuli and Savor, companies I cofounded with <a href="https://www.linkedin.com/in/">Vit & Arpan</a>. </p> 
+        
+        <p style="font-family: 'Cutive Mono', monospace; margin-right: 150px">I am also xyz.</p>
+
+        <p style="font-family: 'Cutive Mono', monospace; margin-right: 150px">I have been extremely fortunate to have xyz.</p>
+          
+
+        <p style="font-family: 'Cutive Mono', monospace; margin-right: 150px">Once upon a time, my summers were spent xyz.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
